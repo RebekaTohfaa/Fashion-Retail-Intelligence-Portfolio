@@ -1,1 +1,1 @@
-# -fashion-retail-intelligence-portfolio
+# fashion-retail-intelligence-portfolio
